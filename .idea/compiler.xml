@@ -15,13 +15,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Amazon" target="1.5" />
-      <module name="BestBuy" target="1.5" />
-      <module name="Chase" target="1.5" />
-      <module name="Facebook" target="1.5" />
+      <module name="Amazon" target="1.8" />
+      <module name="BestBuy" target="1.8" />
+      <module name="Chase" target="1.8" />
+      <module name="Facebook" target="1.8" />
       <module name="Generic" target="1.5" />
       <module name="Team6" target="1.5" />
-      <module name="UnitedHealthcare" target="1.5" />
+      <module name="UnitedHealthcare" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
